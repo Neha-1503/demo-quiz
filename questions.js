@@ -309,19 +309,19 @@ export const questions = [
     question: "Identify the famous Indian poet from these eyes.",
     answers: ["Rabindranath Tagore", "Sarojini Naidu", "Harivansh Rai Bachchan", "Mirza Ghalib"],
     correct: 0,
-    image: "assests/Screenshot 2024-12-29 at 8.05.45 PM.png"
+    image: "assests/Rabindranath.png"
   },
   {
     question: "These eyes belong to which legendary Bollywood actor?",
     answers: ["Amitabh Bachchan", "Raj Kapoor", "Dilip Kumar", "Shah Rukh Khan"],
     correct: 1,
-    image: "assests/Screenshot 2024-12-29 at 8.06.32 PM.png"
+    image: "assests/Rajkappor.png"
   },
   {
     question: "Guess the Indian actress from these eyes.",
     answers: ["Madhubala", "Rekha", "Aishwarya Rai", "Deepika Padukone"],
     correct: 2,
-    image: "assests/Screenshot 2024-12-29 at 8.08.01 PM.png"
+    image: "assests/Aishawarya.png"
   },
   {
     question: "Complete the lyrics: 'Tujh mein rab dikhta hai...'?",
