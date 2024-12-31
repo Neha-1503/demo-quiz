@@ -142,7 +142,7 @@ export const questions = [
    {
     "question": "If a circle has a radius of 7 cm, what is its diameter?",
     "answers": ["7 cm", "14 cm", "21 cm", "28 cm"],
-    "correct": 1
+    "correct": 1,
   },
   {
     question: "What is the term for a star that suddenly increases in brightness due to an explosion?",
