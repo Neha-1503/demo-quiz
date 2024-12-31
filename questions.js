@@ -10,6 +10,186 @@ export const questions = [
     correct: 2,
   },
   {
+    question: "Which is the national fruit of India?",
+    answers: ["Mango", "Banana", "Apple", "Grapes"],
+    correct: 0,
+  },
+  {
+    question: "Which state in India is known as the 'Land of Five Rivers'?",
+    answers: ["Punjab", "Haryana", "Uttar Pradesh", "Rajasthan"],
+    correct: 0,
+  },
+  {
+    question: "Who was the first Indian woman to win an Olympic medal?",
+    answers: ["P.T. Usha", "Saina Nehwal", "Karnam Malleswari", "Mary Kom"],
+    correct: 2,
+  },
+  {
+    question: "Which Indian state is known for the production of saffron?",
+    answers: ["Himachal Pradesh", "Jammu and Kashmir", "Uttarakhand", "Assam"],
+    correct: 1,
+  },
+  {
+    question: "Which Indian scientist is known as the 'Missile Man of India'?",
+    answers: ["Homi Bhabha", "C.V. Raman", "A.P.J. Abdul Kalam", "Vikram Sarabhai"],
+    correct: 2,
+  },
+  {
+    question: "Which Indian city is called the 'City of Lakes'?",
+    answers: ["Jaipur", "Udaipur", "Mumbai", "Hyderabad"],
+    correct: 1,
+  },
+  {
+    question: "Which river is known as the 'Ganga of the South'?",
+    answers: ["Godavari", "Kaveri", "Krishna", "Tungabhadra"],
+    correct: 1,
+  },
+   {
+    question: "What is the largest planet in our solar system?",
+    answers: ["Earth", "Jupiter", "Saturn", "Neptune"],
+    correct: 1,
+  },
+  {
+    question: "What is the closest star to Earth?",
+    answers: ["Alpha Centauri", "Betelgeuse", "Proxima Centauri", "The Sun"],
+    correct: 3,
+  },
+  {
+    question: "Which planet is known as the 'Red Planet'?",
+    answers: ["Venus", "Mars", "Mercury", "Saturn"],
+    correct: 1,
+  },
+  {
+    question: "What is the name of the first artificial satellite launched into space?",
+    answers: ["Apollo 11", "Sputnik 1", "Vostok 1", "Explorer 1"],
+    correct: 1,
+  },
+  {
+    question: "What force keeps planets in orbit around the sun?",
+    answers: ["Magnetic force", "Nuclear force", "Gravitational force", "Centripetal force"],
+    correct: 2,
+  },
+  {
+    question: "What is the smallest planet in our solar system?",
+    answers: ["Mars", "Venus", "Mercury", "Pluto"],
+    correct: 2,
+  },
+  {
+    question: "Which planet has the most moons in our solar system?",
+    answers: ["Jupiter", "Saturn", "Neptune", "Uranus"],
+    correct: 1,
+  },
+  {
+    question: "Who was the first person to walk on the Moon?",
+    answers: ["Yuri Gagarin", "Neil Armstrong", "Buzz Aldrin", "Michael Collins"],
+    correct: 1,
+  },
+  {
+    question: "What is the name of the galaxy that contains our solar system?",
+    answers: ["Andromeda Galaxy", "Milky Way Galaxy", "Sombrero Galaxy", "Whirlpool Galaxy"],
+    correct: 1,
+  },
+  {
+    question: "Which planet is known for its prominent ring system?",
+    answers: ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    correct: 1,
+  },
+  {
+    question: "What is the term for a star that suddenly increases in brightness due to an explosion?",
+    answers: ["Nova", "Supernova", "Pulsar", "Quasar"],
+    correct: 1,
+  },
+  {
+    question: "What is the name of the first human-made object to reach interstellar space?",
+    answers: ["Voyager 1", "Apollo 11", "Hubble Telescope", "Pioneer 10"],
+    correct: 0,
+  },
+  {
+    question: "Which planet has a day longer than its year?",
+    answers: ["Mercury", "Venus", "Mars", "Jupiter"],
+    correct: 1,
+  },
+  {
+    question: "What is the term for the boundary around a black hole from which nothing can escape?",
+    answers: ["Event Horizon", "Singularity", "Photon Sphere", "Accretion Disk"],
+    correct: 0,
+  },
+  {
+    question: "Which planet is the hottest in our solar system?",
+    answers: ["Mercury", "Venus", "Mars", "Jupiter"],
+    correct: 1,
+  },
+  {
+    question: "What is the most abundant gas in the Earth's atmosphere?",
+    answers: ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    correct: 2,
+  },
+  {
+    question: "What type of galaxy is the Milky Way?",
+    answers: ["Elliptical", "Irregular", "Spiral", "Barred Spiral"],
+    correct: 3,
+  },
+  {
+    question: "What is the main component of the Sun?",
+    answers: ["Helium", "Hydrogen", "Carbon", "Oxygen"],
+    correct: 1,
+  },
+  {
+    question: "Which space agency launched the Hubble Space Telescope?",
+    answers: ["ISRO", "NASA", "ESA", "Roscosmos"],
+    correct: 1,
+  },
+  {
+    question: "What is the approximate age of the universe?",
+    answers: ["4.5 billion years", "10 billion years", "13.8 billion years", "20 billion years"],
+    correct: 2,
+  },
+  {
+    question: "Who is known as the 'Father of the Indian Constitution'?",
+    answers: ["Mahatma Gandhi", "B.R. Ambedkar", "Jawaharlal Nehru", "Sardar Patel"],
+    correct: 1,
+  },
+  {
+    question: "Which Indian state is the largest producer of coffee?",
+    answers: ["Tamil Nadu", "Karnataka", "Kerala", "Andhra Pradesh"],
+    correct: 1,
+  },
+  {
+    question: "What is the name of India's first nuclear-powered submarine?",
+    answers: ["INS Chakra", "INS Vikramaditya", "INS Arihant", "INS Kalvari"],
+    correct: 2,
+  },
+  {
+    question: "Which Indian festival is celebrated to mark the harvest season in Punjab?",
+    answers: ["Lohri", "Baisakhi", "Holi", "Diwali"],
+    correct: 1,
+  },
+  {
+    question: "Who was the first Indian to receive the Nobel Prize in Literature?",
+    answers: ["Rabindranath Tagore", "C.V. Raman", "Mother Teresa", "Amartya Sen"],
+    correct: 0,
+  },
+  {
+    question: "Which sage is credited with creating the Tamil script?",
+    answers: ["Agastya", "Vishwamitra", "Vashistha", "Narada"],
+    correct: 0,
+  },
+  {
+    question: "Who is the goddess of wealth and prosperity?",
+    answers: ["Lakshmi", "Saraswati", "Parvati", "Kali"],
+    correct: 0,
+  },
+  {
+    question: "What is the name of the conch shell used by Lord Krishna in the Mahabharata?",
+    answers: ["Panchajanya", "Sharanga", "Sudarshana", "Ananta"],
+    correct: 0,
+  },
+  {
+    question: "Who is the son of Ganga and Shantanu in the Mahabharata?",
+    answers: ["Bhishma", "Vidura", "Duryodhana", "Karna"],
+    correct: 0,
+  },
+  {
     question: "In which movie does the iconic dialogue 'Mogambo khush hua' appear?",
     answers: ["Sholay", "Mr. India", "Deewar", "Don"],
     correct: 1,
@@ -45,6 +225,31 @@ export const questions = [
     correct: 1,
   },
   {
+    question: "Who is the vehicle of Lord Vishnu?",
+    answers: ["Lion", "Garuda", "Elephant", "Bull"],
+    correct: 1,
+  },
+  {
+    question: "Who is known as the goddess of learning and wisdom?",
+    answers: ["Lakshmi", "Durga", "Kali", "Saraswati"],
+    correct: 3,
+  },
+  {
+    question: "Who is the eldest Pandava brother?",
+    answers: ["Yudhishthira", "Bhima", "Arjuna", "Nakula"],
+    correct: 0,
+  },
+  {
+    question: "Which Hindu festival celebrates the victory of Lord Rama over Ravana?",
+    answers: ["Diwali", "Holi", "Dussehra", "Navratri"],
+    correct: 2,
+  },
+  {
+    question: "What is the name of the seven sages in Hindu mythology?",
+    answers: ["Saptrishi", "Navrishi", "Panchrishi", "Dashrishi"],
+    correct: 0,
+  },
+  {
     question: "Which river is considered the holiest in India?",
     answers: ["Yamuna", "Ganges", "Sindhu", "Godavari"],
     correct: 1,
@@ -78,6 +283,86 @@ export const questions = [
     question: "Which is the national flower of India?",
     answers: ["Rose", "Lotus", "Tulip", "Sunflower"],
     correct: 1,
+  },
+  {
+    question: "Who composed the Mahabharata?",
+    answers: ["Valmiki", "Vyasa", "Kalidasa", "Tulsidas"],
+    correct: 1,
+  },
+  {
+    question: "Which demon did Goddess Durga defeat?",
+    answers: ["Ravana", "Mahishasura", "Bakasura", "Kumbhakarna"],
+    correct: 1,
+  },
+  {
+    question: "What is the name of Lord Krishna's elder brother?",
+    answers: ["Arjuna", "Balarama", "Karna", "Shiva"],
+    correct: 1,
+  },
+  {
+    question: "Who is known as the god of wisdom and remover of obstacles?",
+    answers: ["Brahma", "Shiva", "Ganesha", "Vishnu"],
+    correct: 2,
+  },
+  {
+    question: "Which river is considered sacred in Hindu mythology?",
+    answers: ["Yamuna", "Ganga", "Godavari", "Narmada"],
+    correct: 1,
+  },
+  {
+    question: "Who is the mother of the Pandavas in the Mahabharata?",
+    answers: ["Kunti", "Draupadi", "Satyavati", "Gandhari"],
+    correct: 0,
+  },
+  {
+    question: "Which avatar of Lord Vishnu is known as the 'fish' incarnation?",
+    answers: ["Kurma", "Varaha", "Matsya", "Narasimha"],
+    correct: 2,
+  },
+  {
+    question: "Who is the king of the gods in Hindu mythology?",
+    answers: ["Indra", "Varuna", "Agni", "Kubera"],
+    correct: 0,
+  },
+  {
+    question: "What is the name of Lord Rama's bow?",
+    answers: ["Gandiva", "Pinaka", "Sharanga", "Kodanda"],
+    correct: 3,
+  },
+  {
+    question: "Which sage cursed Lord Vishnu to be born as a human?",
+    answers: ["Narada", "Durvasa", "Bhrigu", "Vashistha"],
+    correct: 2,
+  },
+  {
+    question: "Who is the wife of Yama, the god of death?",
+    answers: ["Lakshmi", "Kalindi", "Dhumorna", "Sita"],
+    correct: 2,
+  },
+  {
+    question: "Which demon king ruled Lanka in the Ramayana?",
+    answers: ["Kumbhakarna", "Vibhishana", "Ravana", "Sugriva"],
+    correct: 2,
+  },
+  {
+    question: "What is the name of the mountain where Hanuman finds the Sanjeevani herb?",
+    answers: ["Mandara", "Dronagiri", "Kailash", "Meru"],
+    correct: 1,
+  },
+  {
+    question: "Who wrote the Ramayana in Sanskrit?",
+    answers: ["Vyasa", "Valmiki", "Tulsidas", "Kalidasa"],
+    correct: 1,
+  },
+  {
+    question: "Which goddess emerged from the ocean during the churning of the milky ocean?",
+    answers: ["Saraswati", "Lakshmi", "Parvati", "Kali"],
+    correct: 1,
+  },
+  {
+    question: "Who is the father of Karna in the Mahabharata?",
+    answers: ["Surya", "Indra", "Drona", "Shiva"],
+    correct: 0,
   },
   {
     question: "Which Bollywood movie features the dialogue 'Bade bade deshon mein aisi chhoti chhoti baatein hoti rehti hain'?",
@@ -124,6 +409,26 @@ export const questions = [
     answers: ["Indira Gandhi", "Sarojini Naidu", "Pratibha Patil", "Sushma Swaraj"],
     correct: 0,
   },
+    {
+    question: "Which epic narrates the story of Lord Rama?",
+    answers: ["Mahabharata", "Ramayana", "Bhagavad Gita", "Vedas"],
+    correct: 1,
+  },
+  {
+    question: "Who is the consort of Lord Shiva?",
+    answers: ["Lakshmi", "Sita", "Parvati", "Radha"],
+    correct: 2,
+  },
+  {
+    question: "Who is the charioteer of Arjuna in the Mahabharata?",
+    answers: ["Bheeshma", "Krishna", "Karna", "Drona"],
+    correct: 1,
+  },
+  {
+    question: "What is the weapon of Lord Vishnu?",
+    answers: ["Trishul", "Sudarshana Chakra", "Bow", "Mace"],
+    correct: 1,
+  },
   {
     question: "Which Indian city is known as the 'City of Joy'?",
     answers: ["Mumbai", "Kolkata", "Chennai", "Delhi"],
@@ -163,6 +468,11 @@ export const questions = [
     question: "Which Indian scientist developed the technique of Raman Spectroscopy?",
     answers: ["C.V. Raman", "Homi Bhabha", "Vikram Sarabhai", "Jagadish Chandra Bose"],
     correct: 0
+  },
+  {
+    question: "What was the name of the kingdom ruled by King Bharata, which eventually became known as India?",
+    answers: ["Kuru", "Kosala", "Panchala", "Bharatavarsha"],
+    correct: 3,
   },
   {
     question: "What is the ancient language in which most Hindu scriptures are written?",
@@ -279,6 +589,11 @@ export const questions = [
     answers: ["7", "8", "9", "10"],
     correct: 2
   },
+    {
+    question: "Who was the demon who tried to abduct Sita by taking the form of a golden deer?",
+    answers: ["Mareecha", "Subahu", "Tataka", "Shurpanakha"],
+    correct: 0,
+  },
   {
     question: "What is 3/4 of 100?",
     answers: ["50", "60", "70", "75"],
@@ -362,6 +677,11 @@ export const questions = [
       "Mausam hai aaj ka"
     ],
     correct: 1
+  },
+    {
+    question: "Who was the son of Lord Indra and the hero of the Mahabharata who could wield the mace with unmatched skill?",
+    answers: ["Yudhishthira", "Bhima", "Arjuna", "Ghatotkacha"],
+    correct: 1,
   },
   {
     question: "Complete the lyrics: 'Kal ho na ho...'?",
