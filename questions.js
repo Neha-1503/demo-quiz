@@ -851,7 +851,7 @@ export const questions = [
   {
     question: "What is 25 + 37?",
     answers: ["52", "62", "64", "72"],
-    correct: 2
+    correct: 1
   },
   {
     question: "If a dozen is 12, how many are 7 dozens?",
