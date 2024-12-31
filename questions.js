@@ -269,6 +269,101 @@ export const questions = [
     answers: ["Jawaharlal Nehru", "Sardar Patel", "Mahatma Gandhi", "Bhagat Singh"],
     correct: 2,
   },
+   {
+    question: "What is the name of the sage who cursed King Parikshit, leading to the events of the Bhagavata Purana?",
+    answers: ["Durvasa", "Vishwamitra", "Shuka", "Shringi"],
+    correct: 3,
+  },
+  {
+    question: "Who was the architect of the palaces of the gods and demons in Hindu mythology?",
+    answers: ["Vishwakarma", "Maya", "Tvashta", "Indrajit"],
+    correct: 0,
+  },
+  {
+    question: "Which celestial nymph was sent to distract sage Vishwamitra from his penance?",
+    answers: ["Menaka", "Urvashi", "Rambha", "Tilottama"],
+    correct: 0,
+  },
+  {
+    question: "What was the name of the kingdom ruled by King Bharata, which eventually became known as India?",
+    answers: ["Kuru", "Kosala", "Panchala", "Bharatavarsha"],
+    correct: 3,
+  },
+  {
+    question: "Which river goddess is considered the daughter of Lord Brahma?",
+    answers: ["Yamuna", "Saraswati", "Ganga", "Godavari"],
+    correct: 1,
+  },
+  {
+    question: "Who is the Asura king who was granted immortality through a clever boon and was later slain by Narasimha?",
+    answers: ["Hiranyaksha", "Hiranyakashipu", "Vibhishana", "Bali"],
+    correct: 1,
+  },
+  {
+    question: "Who was the sage who composed the Yoga Sutras and is considered the father of modern yoga?",
+    answers: ["Vasistha", "Vyasa", "Patanjali", "Kapila"],
+    correct: 2,
+  },
+  {
+    question: "Which weapon did Arjuna obtain after intense penance to Lord Shiva?",
+    answers: ["Brahmastra", "Pashupatastra", "Vajra", "Sudarshana Chakra"],
+    correct: 1,
+  },
+  {
+    question: "What is the name of the serpent who serves as Lord Vishnu’s resting place in the cosmic ocean?",
+    answers: ["Takshaka", "Kaliya", "Ananta", "Vasuki"],
+    correct: 2,
+  },
+  {
+    question: "Which deity is known as the 'elephant-headed god' in Hindu mythology?",
+    answers: ["Kubera", "Yama", "Ganesha", "Varuna"],
+    correct: 2,
+  },
+  {
+    question: "Who was the guru of both the Kauravas and the Pandavas?",
+    answers: ["Drona", "Kripacharya", "Bhishma", "Vyasa"],
+    correct: 0,
+  },
+  {
+    question: "What is the name of the sacred mountain that acts as the axis of the universe in Hindu cosmology?",
+    answers: ["Meru", "Kailash", "Mandara", "Vindhya"],
+    correct: 0,
+  },
+  {
+    question: "Who cursed King Pandu, preventing him from consummating his marriage?",
+    answers: ["Durvasa", "Vashistha", "Kindama", "Narada"],
+    correct: 2,
+  },
+  {
+    question: "What is the name of the bow that broke during Sita's swayamvara in the Ramayana?",
+    answers: ["Gandiva", "Sharanga", "Kodanda", "Pinaka"],
+    correct: 3,
+  },
+  {
+    question: "Who was the wife of Sage Kashyapa and the mother of snakes in Hindu mythology?",
+    answers: ["Aditi", "Kadru", "Diti", "Vinata"],
+    correct: 1,
+  },
+  {
+    question: "Which form of Lord Vishnu subdued King Bali by covering the heavens and earth in three strides?",
+    answers: ["Vamana", "Narasimha", "Kurma", "Matsya"],
+    correct: 0,
+  },
+  {
+    question: "What is the name of the forest where the Pandavas spent part of their exile?",
+    answers: ["Dandakaranya", "Kamyaka", "Naimisha", "Tapovana"],
+    correct: 1,
+  },
+  {
+    question: "Who was the demon who tried to abduct Sita by taking the form of a golden deer?",
+    answers: ["Mareecha", "Subahu", "Tataka", "Shurpanakha"],
+    correct: 0,
+  },
+  {
+    question: "Which weapon was given to Karna by Lord Indra in exchange for his divine armor and earrings?",
+    answers: ["Brahmastra", "Vasavi Shakti", "Pashupatastra", "Vajra"],
+    correct: 1,
+  },
   {
     question: "What is the national animal of India?",
     answers: ["Elephant", "Lion", "Tiger", "Peacock"],
