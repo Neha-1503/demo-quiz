@@ -305,11 +305,6 @@ export const questions = [
     correct: 2,
   },
   {
-    question: "Which weapon did Arjuna obtain after intense penance to Lord Shiva?",
-    answers: ["Brahmastra", "Pashupatastra", "Vajra", "Sudarshana Chakra"],
-    correct: 1,
-  },
-  {
     question: "What is the name of the serpent who serves as Lord Vishnu’s resting place in the cosmic ocean?",
     answers: ["Takshaka", "Kaliya", "Ananta", "Vasuki"],
     correct: 2,
@@ -355,11 +350,6 @@ export const questions = [
     correct: 1,
   },
   {
-    question: "Who was the demon who tried to abduct Sita by taking the form of a golden deer?",
-    answers: ["Mareecha", "Subahu", "Tataka", "Shurpanakha"],
-    correct: 0,
-  },
-  {
     question: "Which weapon was given to Karna by Lord Indra in exchange for his divine armor and earrings?",
     answers: ["Brahmastra", "Vasavi Shakti", "Pashupatastra", "Vajra"],
     correct: 1,
@@ -380,16 +370,6 @@ export const questions = [
     correct: 1,
   },
   {
-    question: "Who composed the Mahabharata?",
-    answers: ["Valmiki", "Vyasa", "Kalidasa", "Tulsidas"],
-    correct: 1,
-  },
-  {
-    question: "Which demon did Goddess Durga defeat?",
-    answers: ["Ravana", "Mahishasura", "Bakasura", "Kumbhakarna"],
-    correct: 1,
-  },
-  {
     question: "What is the name of Lord Krishna's elder brother?",
     answers: ["Arjuna", "Balarama", "Karna", "Shiva"],
     correct: 1,
@@ -400,43 +380,13 @@ export const questions = [
     correct: 2,
   },
   {
-    question: "Which river is considered sacred in Hindu mythology?",
-    answers: ["Yamuna", "Ganga", "Godavari", "Narmada"],
-    correct: 1,
-  },
-  {
-    question: "Who is the mother of the Pandavas in the Mahabharata?",
-    answers: ["Kunti", "Draupadi", "Satyavati", "Gandhari"],
-    correct: 0,
-  },
-  {
     question: "Which avatar of Lord Vishnu is known as the 'fish' incarnation?",
     answers: ["Kurma", "Varaha", "Matsya", "Narasimha"],
     correct: 2,
   },
   {
-    question: "Who is the king of the gods in Hindu mythology?",
-    answers: ["Indra", "Varuna", "Agni", "Kubera"],
-    correct: 0,
-  },
-  {
-    question: "What is the name of Lord Rama's bow?",
-    answers: ["Gandiva", "Pinaka", "Sharanga", "Kodanda"],
-    correct: 3,
-  },
-  {
     question: "Which sage cursed Lord Vishnu to be born as a human?",
     answers: ["Narada", "Durvasa", "Bhrigu", "Vashistha"],
-    correct: 2,
-  },
-  {
-    question: "Who is the wife of Yama, the god of death?",
-    answers: ["Lakshmi", "Kalindi", "Dhumorna", "Sita"],
-    correct: 2,
-  },
-  {
-    question: "Which demon king ruled Lanka in the Ramayana?",
-    answers: ["Kumbhakarna", "Vibhishana", "Ravana", "Sugriva"],
     correct: 2,
   },
   {
@@ -447,11 +397,6 @@ export const questions = [
   {
     question: "Who wrote the Ramayana in Sanskrit?",
     answers: ["Vyasa", "Valmiki", "Tulsidas", "Kalidasa"],
-    correct: 1,
-  },
-  {
-    question: "Which goddess emerged from the ocean during the churning of the milky ocean?",
-    answers: ["Saraswati", "Lakshmi", "Parvati", "Kali"],
     correct: 1,
   },
   {
