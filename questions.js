@@ -5,6 +5,51 @@ export const questions = [
     correct: 0,
   },
   {
+    "question": "What is the value of π (pi) approximately?",
+    "answers": ["3.12", "3.14", "3.16", "3.18"],
+    "correct": 1
+  },
+  {
+    "question": "What is the sum of the angles in a triangle?",
+    "answers": ["90 degrees", "120 degrees", "180 degrees", "360 degrees"],
+    "correct": 2
+  },
+  {
+    "question": "Which Indian mathematician is known for his contributions to number theory, including the Ramanujan Prime?",
+    "answers": ["Aryabhata", "Srinivasa Ramanujan", "Brahmagupta", "Bhaskara II"],
+    "correct": 1
+  },
+  {
+    "question": "What is the square root of 144?",
+    "answers": ["10", "11", "12", "13"],
+    "correct": 2
+  },
+  {
+    "question": "How many sides does a pentagon have?",
+    "answers": ["4", "5", "6", "7"],
+    "correct": 1
+  },
+  {
+    "question": "If 3x = 12, what is the value of x?",
+    "answers": ["3", "4", "6", "9"],
+    "correct": 1
+  },
+  {
+    "question": "What is the value of 2 raised to the power of 5?",
+    "answers": ["10", "20", "32", "64"],
+    "correct": 2
+  },
+  {
+    "question": "Which ancient Indian mathematician is credited with the concept of zero as a number?",
+    "answers": ["Aryabhata", "Bhaskara II", "Brahmagupta", "Panini"],
+    "correct": 2
+  },
+  {
+    "question": "What is the perimeter of a square with a side length of 8 cm?",
+    "answers": ["16 cm", "32 cm", "64 cm", "128 cm"],
+    "correct": 1
+  },
+  {
     question: "Who is known as the 'King of Bollywood'?",
     answers: ["Salman Khan", "Aamir Khan", "Shah Rukh Khan", "Hrithik Roshan"],
     correct: 2,
@@ -94,6 +139,11 @@ export const questions = [
     answers: ["Jupiter", "Saturn", "Uranus", "Neptune"],
     correct: 1,
   },
+   {
+    "question": "If a circle has a radius of 7 cm, what is its diameter?",
+    "answers": ["7 cm", "14 cm", "21 cm", "28 cm"],
+    "correct": 1
+  }
   {
     question: "What is the term for a star that suddenly increases in brightness due to an explosion?",
     answers: ["Nova", "Supernova", "Pulsar", "Quasar"],
