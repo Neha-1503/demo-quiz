@@ -240,5 +240,54 @@ export const questions = [
     question: "The song 'Kesariya' is from which movie?",
     answers: ["Brahmāstra", "Kalank", "Rocky Aur Rani Kii Prem Kahaani", "Tu Jhoothi Main Makkaar"],
     correct: 0,
+  },
+  { question: "Unscramble the STATE name: TJARASAHNRA",
+    answers: ["Rajasthan", "Maharashtra", "Jharkhand", "Chhattisgarh"],
+    correct: 1,
+  },
+  {
+    question: "Unscramble the CAPITAL name: NEMIHCIA",
+    answers: ["Chennai", "Kochi", "Amritsar", "Madurai"],
+    correct: 0,
+  },
+  {
+    question: "Unscramble the STATE name: TARGAUJ",
+    answers: ["Goa", "Gujarat", "Punjab", "Haryana"],
+    correct: 1,
+  },
+  {
+    question: "Unscramble the CAPITAL name: MUMIAB",
+    answers: ["Pune", "Mumbai", "Nagpur", "Nashik"],
+    correct: 1,
+  },
+  {
+    question: "Unscramble the STATE name: RAEKL",
+    answers: ["Kerala", "Karnataka", "Tripura", "Telangana"],
+    correct: 0,
+  },
+  {
+    question: "Unscramble the CAPITAL name: NKRUBA",
+    answers: ["Kurnool", "Bikaner", "Bengaluru", "Hubli"],
+    correct: 2,
+  },
+  {
+    question: "Unscramble the STATE name: PNJUBA",
+    answers: ["Punjab", "Bihar", "Himachal Pradesh", "Haryana"],
+    correct: 0,
+  },
+  {
+    question: "Unscramble the CAPITAL name: LODHEI",
+    answers: ["Chandigarh", "New Delhi", "Dehradun", "Jaipur"],
+    correct: 1,
+  },
+  {
+    question: "Unscramble the STATE name: LMIATN DUAN",
+    answers: ["Andhra Pradesh", "Tamil Nadu", "Telangana", "Odisha"],
+    correct: 1,
+  },
+  {
+    question: "Unscramble the CAPITAL name: JIARPU",
+    answers: ["Udaipur", "Jaipur", "Jodhpur", "Ajmer"],
+    correct: 1,
   }
 ];
