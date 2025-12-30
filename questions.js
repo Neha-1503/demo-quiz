@@ -552,6 +552,12 @@ export const questions = [
     question: "Identify the Indian state shown in the map.",
     answers: ["Rajasthan", "Gujarat", "Goa", "Maharashtra"],
     correct: 1,
-    image: "assests/Gujarat.png"
+    image: "assests/Gujarat.jpg"
   },
+  {
+    question: "Identify the Indian state shown in the map.",
+    answers: ["Rajasthan", "Gujarat", "Goa", "Maharashtra"],
+    correct: 3,
+    image: "assests/Maharashtra.webp"
+  }
 ];
