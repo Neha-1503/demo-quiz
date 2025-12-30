@@ -530,10 +530,28 @@ export const questions = [
     answers: ["Sarojini Naidu", "Annie Besant", "Aruna Asaf Ali", "All of these"],
     correct: 3,
   },
-   {
-    question: "Guess the personality from the eyes shown.",
-    answers: ["Kareena Kapoor", "Deepika Padukone", "Aishwarya Rai", "Katrina Kaif"],
+    {
+    question: "Identify the famous Indian poet from these eyes.",
+    answers: ["Rabindranath Tagore", "Sarojini Naidu", "Harivansh Rai Bachchan", "Mirza Ghalib"],
+    correct: 0,
+    image: "assests/Rabindranath.png"
+  },
+  {
+    question: "These eyes belong to which legendary Bollywood actor?",
+    answers: ["Amitabh Bachchan", "Raj Kapoor", "Dilip Kumar", "Shah Rukh Khan"],
+    correct: 1,
+    image: "assests/Rajkappor.png"
+  },
+  {
+    question: "Guess the Indian actress from these eyes.",
+    answers: ["Madhubala", "Rekha", "Aishwarya Rai", "Deepika Padukone"],
     correct: 2,
-    image: ""
+    image: "assests/Aishawarya.png"
+  },
+  {
+    question: "Identify the Indian state shown in the map.",
+    answers: ["Rajasthan", "Gujarat", "Goa", "Maharashtra"],
+    correct: 1,
+    image: "assests/Gujarat.png"
   },
 ];
