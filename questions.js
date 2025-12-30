@@ -289,5 +289,251 @@ export const questions = [
     question: "Unscramble the CAPITAL name: JIARPU",
     answers: ["Udaipur", "Jaipur", "Jodhpur", "Ajmer"],
     correct: 1,
-  }
+  },
+  {
+    question: "Which Indian monument is known as the symbol of love?",
+    answers: ["Qutub Minar", "Taj Mahal", "Charminar", "Gateway of India"],
+    correct: 1,
+  },
+  {
+    question: "In which city is the Gateway of India located?",
+    answers: ["Delhi", "Mumbai", "Kolkata", "Chennai"],
+    correct: 1,
+  },
+  {
+    question: "Which hill station is known as the 'Queen of the Hills'?",
+    answers: ["Ooty", "Darjeeling", "Shimla", "Mussoorie"],
+    correct: 2,
+  },
+  {
+    question: "The Sun Temple is located at which place?",
+    answers: ["Puri", "Konark", "Bhubaneswar", "Cuttack"],
+    correct: 1,
+  },
+  {
+    question: "Which Indian state is famous for backwaters and houseboats?",
+    answers: ["Goa", "Kerala", "Assam", "West Bengal"],
+    correct: 1,
+  },
+  {
+    question: "In which city is the Charminar located?",
+    answers: ["Hyderabad", "Lucknow", "Bhopal", "Delhi"],
+    correct: 0,
+  },
+  {
+    question: "Which fort is popularly known as the 'Golden Fort'?",
+    answers: ["Red Fort", "Amber Fort", "Jaisalmer Fort", "Gwalior Fort"],
+    correct: 2,
+  },
+  {
+    question: "Which city is famous for the ghats of the River Ganga?",
+    answers: ["Haridwar", "Prayagraj", "Varanasi", "Patna"],
+    correct: 2,
+  },
+  {
+    question: "The Statue of Unity is located in which Indian state?",
+    answers: ["Maharashtra", "Gujarat", "Rajasthan", "Madhya Pradesh"],
+    correct: 1,
+  },
+  {
+    question: "Which Indian destination is famous for its tea gardens?",
+    answers: ["Munnar", "Darjeeling", "Ooty", "All of these"],
+    correct: 3,
+  },
+  {
+    question: "Which place is known as the 'Pink City of India'?",
+    answers: ["Udaipur", "Jaipur", "Jodhpur", "Bikaner"],
+    correct: 1,
+  },
+  {
+    question: "Which national park is famous for one-horned rhinoceroses?",
+    answers: ["Jim Corbett", "Kaziranga", "Bandipur", "Gir"],
+    correct: 1,
+  },
+  {
+    question: "Which Indian cave complex is famous for Buddhist paintings?",
+    answers: ["Elephanta Caves", "Ajanta Caves", "Ellora Caves", "Badami Caves"],
+    correct: 1,
+  },
+  {
+    question: "Which beach destination is known as the party capital of India?",
+    answers: ["Gokarna", "Varkala", "Goa", "Pondicherry"],
+    correct: 2,
+  },
+  {
+    question: "Which Indian city is famous for the Golden Temple?",
+    answers: ["Chandigarh", "Amritsar", "Ludhiana", "Patiala"],
+    correct: 1,
+  },
+  {
+    question: "Which planet is known as the Red Planet?",
+    answers: ["Venus", "Mars", "Jupiter", "Saturn"],
+    correct: 1,
+  },
+  {
+    question: "Which is the largest planet in our solar system?",
+    answers: ["Earth", "Saturn", "Jupiter", "Neptune"],
+    correct: 2,
+  },
+  {
+    question: "How many planets are there in the solar system?",
+    answers: ["7", "8", "9", "10"],
+    correct: 1,
+  },
+  {
+    question: "Which planet is closest to the Sun?",
+    answers: ["Venus", "Earth", "Mercury", "Mars"],
+    correct: 2,
+  },
+  {
+    question: "Which planet has the most visible rings?",
+    answers: ["Jupiter", "Uranus", "Saturn", "Neptune"],
+    correct: 2,
+  },
+  {
+    question: "Which planet is known as Earth's twin?",
+    answers: ["Mars", "Venus", "Mercury", "Neptune"],
+    correct: 1,
+  },
+  {
+    question: "Which is the hottest planet in the solar system?",
+    answers: ["Mercury", "Venus", "Mars", "Jupiter"],
+    correct: 1,
+  },
+  {
+    question: "What is the name of our galaxy?",
+    answers: ["Andromeda", "Milky Way", "Orion", "Whirlpool"],
+    correct: 1,
+  },
+  {
+    question: "Which planet has the highest number of moons?",
+    answers: ["Jupiter", "Saturn", "Earth", "Mars"],
+    correct: 0,
+  },
+  {
+    question: "Which celestial body is at the center of our solar system?",
+    answers: ["Earth", "Moon", "Sun", "Mars"],
+    correct: 2,
+  },
+  {
+    question: "Which planet takes the longest time to orbit the Sun?",
+    answers: ["Saturn", "Uranus", "Neptune", "Jupiter"],
+    correct: 2,
+  },
+  {
+    question: "Which planet has a day longer than its year?",
+    answers: ["Venus", "Mercury", "Mars", "Jupiter"],
+    correct: 0,
+  },
+  {
+    question: "Which planet is famous for its Great Red Spot?",
+    answers: ["Mars", "Jupiter", "Saturn", "Neptune"],
+    correct: 1,
+  },
+  {
+    question: "Which is the coldest planet in the solar system?",
+    answers: ["Neptune", "Uranus", "Saturn", "Mars"],
+    correct: 1,
+  },
+  {
+    question: "What do we call small rocky bodies that orbit the Sun, mainly found between Mars and Jupiter?",
+    answers: ["Comets", "Asteroids", "Meteors", "Moons"],
+    correct: 1,
+  },
+  {
+    question: "Who is called the Father of the Nation?",
+    answers: ["Jawaharlal Nehru", "Mahatma Gandhi", "Bhagat Singh", "Sardar Patel"],
+    correct: 1,
+  },
+  {
+    question: "Which freedom fighter is shown on Indian currency notes?",
+    answers: ["Bhagat Singh", "Mahatma Gandhi", "Subhas Chandra Bose", "Jawaharlal Nehru"],
+    correct: 1,
+  },
+  {
+    question: "Who gave the slogan 'Inquilab Zindabad'?",
+    answers: ["Bhagat Singh", "Lala Lajpat Rai", "Bal Gangadhar Tilak", "Sardar Patel"],
+    correct: 0,
+  },
+  {
+    question: "Who was the first Prime Minister of India?",
+    answers: ["Rajendra Prasad", "Jawaharlal Nehru", "Lal Bahadur Shastri", "Sardar Patel"],
+    correct: 1,
+  },
+  {
+    question: "Who was popularly known as 'Netaji'?",
+    answers: ["Mahatma Gandhi", "Subhas Chandra Bose", "Bhagat Singh", "Jawaharlal Nehru"],
+    correct: 1,
+  },
+  {
+    question: "Which movement did Mahatma Gandhi start in 1942?",
+    answers: ["Civil Disobedience", "Non-Cooperation", "Quit India", "Khilafat"],
+    correct: 2,
+  },
+  {
+    question: "Who is known as the Iron Man of India?",
+    answers: ["Bal Gangadhar Tilak", "Sardar Patel", "Lal Bahadur Shastri", "C. Rajagopalachari"],
+    correct: 1,
+  },
+  {
+    question: "Who wrote 'Vande Mataram'?",
+    answers: ["Rabindranath Tagore", "Sarojini Naidu", "Bankim Chandra Chattopadhyay", "Subramania Bharati"],
+    correct: 2,
+  },
+  {
+    question: "Who is known as the Nightingale of India?",
+    answers: ["Sarojini Naidu", "Annie Besant", "Aruna Asaf Ali", "Kasturba Gandhi"],
+    correct: 0,
+  },
+  {
+    question: "Which freedom fighter led the Salt March?",
+    answers: ["Jawaharlal Nehru", "Bhagat Singh", "Mahatma Gandhi", "Sardar Patel"],
+    correct: 2,
+  },
+  {
+    question: "Who was the first President of India?",
+    answers: ["Jawaharlal Nehru", "Dr. Rajendra Prasad", "Sardar Patel", "Subhas Chandra Bose"],
+    correct: 1,
+  },
+  {
+    question: "Which freedom fighter was called 'Lokmanya'?",
+    answers: ["Bal Gangadhar Tilak", "Lala Lajpat Rai", "Bhagat Singh", "Jawaharlal Nehru"],
+    correct: 0,
+  },
+  {
+    question: "Who is known as the 'Punjab Kesari'?",
+    answers: ["Bhagat Singh", "Lala Lajpat Rai", "Udham Singh", "Chandrashekhar Azad"],
+    correct: 1,
+  },
+  {
+    question: "Which freedom fighter was associated with the slogan 'Do or Die'?",
+    answers: ["Subhas Chandra Bose", "Bhagat Singh", "Mahatma Gandhi", "Jawaharlal Nehru"],
+    correct: 2,
+  },
+  {
+    question: "Who was the first Indian to become the President of the Indian National Congress?",
+    answers: ["Dadabhai Naoroji", "W. C. Bonnerjee", "Bal Gangadhar Tilak", "Gopal Krishna Gokhale"],
+    correct: 1,
+  },
+  {
+    question: "Who hoisted the Indian national flag at the Red Fort on 15 August 1947?",
+    answers: ["Dr. Rajendra Prasad", "Jawaharlal Nehru", "Mahatma Gandhi", "Sardar Patel"],
+    correct: 1,
+  },
+  {
+    question: "Which freedom fighter was known for the slogan 'Swaraj is my birthright'?",
+    answers: ["Lala Lajpat Rai", "Bal Gangadhar Tilak", "Bhagat Singh", "Subhas Chandra Bose"],
+    correct: 1,
+  },
+  {
+    question: "Who among the following was a woman freedom fighter?",
+    answers: ["Sarojini Naidu", "Annie Besant", "Aruna Asaf Ali", "All of these"],
+    correct: 3,
+  },
+   {
+    question: "Guess the personality from the eyes shown.",
+    answers: ["Kareena Kapoor", "Deepika Padukone", "Aishwarya Rai", "Katrina Kaif"],
+    correct: 2,
+    image: ""
+  },
 ];
