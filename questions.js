@@ -559,5 +559,160 @@ export const questions = [
     answers: ["Rajasthan", "Gujarat", "Goa", "Maharashtra"],
     correct: 3,
     image: "assests/Maharashtra.webp"
+  },
+  {
+    question: "Who is the Prime Minister of India?",
+    answers: ["Rahul Gandhi", "Narendra Modi", "Amit Shah", "Arvind Kejriwal"],
+    correct: 1,
+  },
+  {
+    question: "Who is the President of India?",
+    answers: ["Pratibha Patil", "Droupadi Murmu", "Sonia Gandhi", "Meira Kumar"],
+    correct: 1,
+  },
+  {
+    question: "Which political party is currently leading the central government?",
+    answers: ["INC", "AAP", "BJP", "CPI"],
+    correct: 2,
+  },
+  {
+    question: "What is the capital of India where Parliament is located?",
+    answers: ["Mumbai", "New Delhi", "Kolkata", "Chennai"],
+    correct: 1,
+  },
+  {
+    question: "Who is known as the Home Minister of India?",
+    answers: ["Rajnath Singh", "Amit Shah", "Nirmala Sitharaman", "Piyush Goyal"],
+    correct: 1,
+  },
+  {
+    question: "How many houses are there in the Indian Parliament?",
+    answers: ["One", "Two", "Three", "Four"],
+    correct: 1,
+  },
+  {
+    question: "What are the two houses of Parliament called?",
+    answers: [
+      "Lok Sabha and Vidhan Sabha",
+      "Rajya Sabha and Vidhan Sabha",
+      "Lok Sabha and Rajya Sabha",
+      "Rajya Sabha and Panchayat"
+    ],
+    correct: 2,
+  },
+  {
+    question: "Who is the Speaker of the Lok Sabha?",
+    answers: ["Om Birla", "Jagdeep Dhankhar", "Narendra Modi", "Amit Shah"],
+    correct: 0,
+  },
+  {
+    question: "Which body conducts elections in India?",
+    answers: ["Supreme Court", "Election Commission of India", "Parliament", "President"],
+    correct: 1,
+  },
+  {
+    question: "How often are Lok Sabha elections held?",
+    answers: ["Every 3 years", "Every 4 years", "Every 5 years", "Every 6 years"],
+    correct: 2,
+  },
+  {
+    question: "What does WHO stand for? (Global health organization)",
+    answers: [
+      "World Health Organization",
+      "World Help Office",
+      "World Human Organization",
+      "World Health Office"
+    ],
+    correct: 0,
+  },
+  {
+    question: "What does ISRO stand for? (India’s space agency)",
+    answers: [
+      "Indian Space Research Organisation",
+      "International Space Research Office",
+      "Indian Satellite Research Office",
+      "Inter State Research Organisation"
+    ],
+    correct: 0,
+  },
+  {
+    question: "What does RBI stand for? (India’s central bank)",
+    answers: [
+      "Reserve Bank of India",
+      "Royal Bank of India",
+      "Regional Bank of India",
+      "Reserve Banking Institution"
+    ],
+    correct: 0,
+  },
+  {
+    question: "What does GDP stand for? (Measures a country’s economy)",
+    answers: [
+      "Gross Domestic Product",
+      "Global Development Plan",
+      "General Domestic Product",
+      "Gross Development Product"
+    ],
+    correct: 0,
+  },
+  {
+    question: "What does ATM stand for? (Used to withdraw money)",
+    answers: [
+      "Any Time Money",
+      "Automated Teller Machine",
+      "All Transaction Machine",
+      "Auto Transfer Money"
+    ],
+    correct: 1,
+  },
+  {
+    question: "What does UNESCO stand for? (Culture, education & heritage body)",
+    answers: [
+      "United Nations Educational, Scientific and Cultural Organization",
+      "United Nations Economic & Social Council",
+      "Universal Education Science Council",
+      "United Nations Environment Support Office"
+    ],
+    correct: 0,
+  },
+  {
+    question: "What does IPL stand for? (Indian cricket tournament)",
+    answers: [
+      "Indian Premier League",
+      "International Players League",
+      "Indian Professional League",
+      "Inter Premier League"
+    ],
+    correct: 0,
+  },
+  {
+    question: "What does CBI stand for? (India’s investigation agency)",
+    answers: [
+      "Central Bureau of Investigation",
+      "Crime Branch of India",
+      "Central Bank of India",
+      "Crime Bureau of Investigation"
+    ],
+    correct: 0,
+  },
+  {
+    question: "What does NDA stand for? (Indian defence academy)",
+    answers: [
+      "National Defence Academy",
+      "National Development Authority",
+      "New Defence Association",
+      "National Defence Association"
+    ],
+    correct: 0,
+  },
+  {
+    question: "What does PM stand for? (Head of the Indian government)",
+    answers: [
+      "Public Member",
+      "Prime Minister",
+      "Principal Minister",
+      "People’s Minister"
+    ],
+    correct: 1,
   }
 ];
